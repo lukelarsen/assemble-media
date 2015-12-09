@@ -1,7 +1,7 @@
 {
   "name": "assemble-media",
   "version": "1.0.0",
-  "description": "Meida players for the Assemble CSS Framework.",
+  "description": "Media players for the Assemble CSS Framework.",
   "main": "assemble-media.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
