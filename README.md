@@ -15,12 +15,12 @@ npm install assemble-media --save-dev
 ```js
 var gulp = require('gulp');
 var postcss = require('gulp-postcss');
-var assembleCore = require('assemble-core');
+var assembleBase = require('assemble-base');
 var assembleMedia = require('assemble-media');
 
 gulp.task('css', function () {
     var processors = [
-        assembleCore,
+        assembleBase,
         assembleMedia
     ];
     return gulp.src('./src/*.css')
