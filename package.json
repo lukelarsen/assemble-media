@@ -1,6 +1,6 @@
 {
   "name": "assemble-media",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Media players for the Assemble CSS Framework.",
   "main": "assemble-media.css",
   "scripts": {
@@ -12,7 +12,6 @@
     "type": "git",
     "url": "https://github.com/lukelarsen/assemble-media"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
